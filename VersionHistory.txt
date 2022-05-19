@@ -1,2 +1,8 @@
 0.1a:
 Added Dockerfile and requirements.txt
+
+0.1b:
+Changed name for src folder to meta folder.
+Changed the Docker file to have correct path to requirements text file.
+Placed the micksflaskserver.py in app.
+Created a template for the landingpage.html for the testing of server.
