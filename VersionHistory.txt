@@ -6,3 +6,6 @@ Changed name for src folder to meta folder.
 Changed the Docker file to have correct path to requirements text file.
 Placed the micksflaskserver.py in app.
 Created a template for the landingpage.html for the testing of server.
+
+0.1c:
+Added a form page, that can send a post request to the flask server. The receiving function can send out JSON object with the form data back as response.
